@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alok Kumar Gupta</h1>
-<h3 align="center">A passionate frontend developer from India 🚀 BTech CSE (AI) Student | Aspiring Software Developer 💻 Web Developer | AI & ML Enthusiast | Problem Solver 🎨 Graphic Designer | Tech Explorer | Lifelong Learner 📚 Passionate about Coding, Building Projects</h3>
+<h3 align="center">A passionate frontend developer from India 🚀 BTech CSE (AI) Student | 🎨 Graphic Designer | Tech Explorer | Lifelong Learner 📚 Passionate about Coding, Building Projects</h3>
 
 - 🔭 I’m currently working on **web dev projects**
 
 - 🌱 I’m currently learning **mongo db (backend)**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lnfstTssWLuFkq1orFCHDeu8xgoC7wpL/view?usp=drive_link](https://drive.google.com/file/d/1lnfstTssWLuFkq1orFCHDeu8xgoC7wpL/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/14BciJYnLEPDWZBMUqDlD4OluNFv5JHZq/view?usp=drive_link]
 
 - 📫 How to reach me **alok41n42@gmail.com**
 
