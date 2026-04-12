@@ -1,31 +1,109 @@
 <h1 align="center">Hi 👋, I'm Alok Kumar Gupta</h1>
-<h3 align="center">A passionate frontend developer from India 🚀 BTech CSE (AI) Student | 🎨 Graphic Designer | Tech Explorer | Lifelong Learner 📚 Passionate about Coding, Building Projects</h3>
-
-- 🔭 I’m currently working on **web dev projects**
-
-- 🌱 I’m currently learning **mongo db (backend)**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/14BciJYnLEPDWZBMUqDlD4OluNFv5JHZq/view?usp=drive_link]
-
-- 📫 How to reach me **alok41n42@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/alokgup31085315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alokgup31085315" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alok-kumar-gupta-71b605294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alok-kumar-gupta-71b605294" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lokkcode&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=lokkcode&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lokkcode&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h3 align="center">
+🚀 BTech CSE (AI) Student | Full Stack Developer in Progress | Graphic Designer 🎨  
+Passionate about building real-world projects & solving problems through code.
+</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=lokkcode&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 🎓 BTech Computer Science (AI Specialization)
+- 💻 Currently building **Full Stack Web Development Projects**
+- 🌱 Learning **MongoDB, Express.js, Node.js (Backend Development)**
+- 🎯 Goal: Crack **top internships & high-paying tech roles**
+- 🎨 Also working as a **Graphic Designer**
+- ⚡ Fun fact: I enjoy turning ideas into working products.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,java" />
+</p>
+
+### ⚙️ Backend & Database
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### 🧰 Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,bootstrap,vscode" />
+</p>
+
+---
+
+## 📂 Featured Projects
+
+Here you should showcase your **best projects only** (very important).
+
+Example format:
+
+- 🏡 **CozyCorner – Full Stack Property Listing App**  
+  Tech: Node.js, Express, MongoDB, EJS  
+  Features: Authentication, CRUD, Image Upload  
+  🔗 https://github.com/lokkcode/project-link
+
+- 🤖 **AI Job Automation Toolkit**  
+  Tech: Python, APIs  
+  Features: Resume parsing, Job tracking automation  
+  🔗 https://github.com/lokkcode/project-link
+
+- 📋 **Smart To-Do List App**  
+  Tech: JavaScript, Local Storage  
+  Features: Task management with dynamic UI  
+  🔗 https://github.com/lokkcode/project-link
+
+(Replace links with real ones.)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=lokkcode&show_icons=true&theme=tokyonight" />
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=lokkcode&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokkcode&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://twitter.com/alokgup31085315">
+<img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+
+<a href="https://linkedin.com/in/alok-kumar-gupta-71b605294">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:alok41n42@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
+
+---
+
+## 📄 Resume
+
+📎 **View My Resume:**  
+https://drive.google.com/file/d/1dKFlu751KGBncmUAIUjRF6L0ZbY-8WRE/view?usp=sharing
+
+---
+
+## 👀 Profile Views
+
+![](https://visitcount.itsvg.in/api?id=lokkcode&icon=5&color=6)
+
+---
+
+⭐ **"Building today to become industry-ready tomorrow."**
