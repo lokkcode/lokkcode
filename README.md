@@ -55,9 +55,9 @@ Example format:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lokkcode&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=lokkcode&show_icons=true&theme=tokyonight&rank_icon=github" />
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=lokkcode&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=lokkcode&theme=tokyonight" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokkcode&layout=compact&theme=tokyonight" />
 
