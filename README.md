@@ -45,19 +45,9 @@ Example format:
 - 🏡 **CozyCorner – Full Stack Property Listing App**  
   Tech: Node.js, Express, MongoDB, EJS  
   Features: Authentication, CRUD, Image Upload  
-  🔗 https://github.com/lokkcode/project-link
+  🔗 https://github.com/lokkcode/CozyCorner
 
-- 🤖 **AI Job Automation Toolkit**  
-  Tech: Python, APIs  
-  Features: Resume parsing, Job tracking automation  
-  🔗 https://github.com/lokkcode/project-link
 
-- 📋 **Smart To-Do List App**  
-  Tech: JavaScript, Local Storage  
-  Features: Task management with dynamic UI  
-  🔗 https://github.com/lokkcode/project-link
-
-(Replace links with real ones.)
 
 ---
 
