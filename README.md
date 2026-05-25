@@ -28,15 +28,6 @@ const alok = {
 
 ---
 
-## 💼 Experience
-
-**🔹 Web Development Intern** @ CodSoft  
-*Aug 2024 - Sep 2024*  
-- Built responsive web applications using modern frontend technologies
-- Collaborated on real-world client projects
-
----
-
 ## 🏆 Certifications
 
 - ✅ **ReactJS Certification** - Infosys Springboard (2025)
@@ -95,7 +86,7 @@ const alok = {
 - ⚡ RESTful API architecture with MVC pattern
 - 🔄 Full CRUD operations for listings and reviews
 
-**🌐 Live:** [CozyCorner on Render](https://cozy-corner-9azf.onrender.com)
+**🌐 Live:** [CozyCorner on Render]([https://cozy-corner-9azf.onrender.com](https://cozycorner-ymm2.onrender.com/listings))
 
 ---
 
@@ -109,7 +100,7 @@ const alok = {
 - ⚡ Real-time hallucination detection for AI outputs
 - 🎯 Built for VC/investor visibility and portfolio differentiation
 
-**Status:** 14-day structured build plan - Currently in development
+**🌐 Live:** [HalluciCheck on Vercel]([https://cozy-corner-9azf.onrender.com](https://hallucicheck-50liemb9a-alok41n42-3670s-projects.vercel.app/))
 
 ---
 
