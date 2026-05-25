@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-🎓 BTech CSE (AI) @ NIET | 🚀 Full Stack Developer | 🎨 Creative Problem Solver  
+🎓 BTech CSE (AI) | 🚀 Full Stack Developer | 🎨 Creative Problem Solver  
 </h3>
 
 <p align="center">
@@ -73,7 +73,7 @@ const alok = {
 
 ## 🚀 Featured Projects
 
-### 🏡 **[CozyCorner - Airbnb Clone](https://github.com/lokkcode/CozyCorner)**
+### 🏡 **[CozyCorner - Airbnb Clone](https://cozycorner-ymm2.onrender.com/listings)**
 > Full-stack property rental platform with enterprise-grade features
 
 **Tech Stack:** MongoDB | Express.js | Node.js | EJS | Passport.js | Cloudinary | Mapbox  
@@ -86,11 +86,11 @@ const alok = {
 - ⚡ RESTful API architecture with MVC pattern
 - 🔄 Full CRUD operations for listings and reviews
 
-**🌐 Live:** [CozyCorner on Render]([https://cozy-corner-9azf.onrender.com](https://cozycorner-ymm2.onrender.com/listings))
+**🌐 Live:** [CozyCorner on Render](https://cozycorner-ymm2.onrender.com/listings)
 
 ---
 
-### 🤖 **HalluciCheck - AI Hallucination Detector** *(In Progress)*
+### 🤖 **[HalluciCheck - AI Hallucination Detector](https://hallucicheck-50liemb9a-alok41n42-3670s-projects.vercel.app/)**
 > Affordable hallucination detection leveraging cost arbitrage via Groq & Tavily APIs
 
 **Tech Stack:** React.js | Groq API | Tavily API  
@@ -100,7 +100,7 @@ const alok = {
 - ⚡ Real-time hallucination detection for AI outputs
 - 🎯 Built for VC/investor visibility and portfolio differentiation
 
-**🌐 Live:** [HalluciCheck on Vercel]([https://cozy-corner-9azf.onrender.com](https://hallucicheck-50liemb9a-alok41n42-3670s-projects.vercel.app/))
+**🌐 Live:** [HalluciCheck on Vercel](https://hallucicheck-50liemb9a-alok41n42-3670s-projects.vercel.app/)
 
 ---
 
@@ -131,7 +131,7 @@ const alok = {
 ## 🎯 Current Focus
 
 ```diff
-+ Building HalluciCheck - AI hallucination detection tool (React + FastAPI)
++ Building HalluciCheck - AI hallucination detection tool (React + groq + travily)
 + Strengthening backend skills with MongoDB, Express, and Node.js
 + Creating portfolio-worthy projects for top internship applications
 + Exploring advanced Three.js and WebGL for immersive web experiences
@@ -161,8 +161,8 @@ const alok = {
 ## 📄 Resume
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1dKFlu751KGBncmUAIUjRF6L0ZbY-8WRE/view?usp=sharing">
-    <img src="https://img.shields.io/badge/View_Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
+  <a href="https://github.com/user-attachments/files/28234203/AlokKumarGupta.pdf">
+    <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
 
@@ -178,15 +178,11 @@ const alok = {
 ---
 
 <div align="center">
-  
+
 ### 🏆 "Building Production-Ready Solutions, One Commit at a Time"
-
-![Profile Views](https://visitcount.itsvg.in/api?id=lokkcode&icon=5&color=6)
-
 **⭐ If you find my projects interesting, consider starring them!**
 
 </div>
-
 ---
 
 <details>
