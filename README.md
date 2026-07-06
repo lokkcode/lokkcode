@@ -100,7 +100,7 @@ const alok = {
 - ⚡ Real-time hallucination detection for AI outputs
 - 🎯 Built for VC/investor visibility and portfolio differentiation
 
-**🌐 Live:** [HalluciCheck on Vercel](https://hallucicheck-50liemb9a-alok41n42-3670s-projects.vercel.app/)
+**🌐 Live:** [HalluciCheck on Vercel](https://hallucicheck.vercel.app/)
 
 ---
 
